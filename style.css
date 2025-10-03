@@ -1,5 +1,6 @@
 body{
-    background-color: rgb(138, 205, 205);
+    background-color: rgb(107, 164, 164);
+    table,td{border: solid rgb(89, 89, 136);}
 }
 
 
